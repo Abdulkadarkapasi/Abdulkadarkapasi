@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Navigating Business Landscapes with Data Science
 ------------------------------------------------
 
-🚀 I've been exploring technology for 2.5 years and have dived into a variety of data science topics. From coding challenges to machine learning, deep learning, natural language processing, and artificial intelligence, my journey has been all about learning, creating, and contributing.
+🚀 I've been exploring technology and have dived into a variety of data science topics. From coding challenges to machine learning, deep learning, natural language processing, and artificial intelligence, my journey has been all about learning, creating, and contributing.
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [abdulkadarkapasi@gmail.com](mailto:abdulkadarkapasi@gmail.com)
